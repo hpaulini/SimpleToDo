@@ -4,7 +4,7 @@
 
 Submitted by: **Helen Paulini**
 
-Time spent: **4** hours spent in total
+Time spent: around **4** hours spent in total
 
 ## User Stories
 
